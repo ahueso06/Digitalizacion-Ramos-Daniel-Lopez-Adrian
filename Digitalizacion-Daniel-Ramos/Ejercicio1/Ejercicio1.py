@@ -7,3 +7,4 @@ if num2 != 0:
 else:
     print("No se puede dividir entre cero")
 ''' ESTE EJERCICIO ES BASTANTE BASICO '''
+''' PERO PARA EMPEZAR NO ESTA NADA MAL '''
