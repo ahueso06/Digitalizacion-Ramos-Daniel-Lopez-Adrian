@@ -6,5 +6,5 @@ while precio > 0:
     numero_articulos += 1
     factura_total += precio * cantidad
     precio = float(input(f"\nIntroduce el importe del articulo {numero_articulos + 1} (o 0 para salir): "))
-    print (f"La factura total es {factura_total}")
+    print (f"La factura total es {factura_total:.2f}€")
     
